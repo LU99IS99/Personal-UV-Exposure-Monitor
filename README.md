@@ -11,6 +11,11 @@ Low power consumption, suitable for battery-operated devices.
 Small form factor, ideal for a wearable device.
 ## Display Device Slide
 The display device prominently features a stepper motor-driven gauge needle, providing a visually intuitive indication of UV exposure levels. This analog-style display is user-friendly and offers an easy-to-understand representation of real-time UV data.
+stepper motor-driven gauge needle
+![image](https://github.com/LU99IS99/Personal-UV-Exposure-Monitor/assets/133922082/fe76b335-75f0-44f1-b227-d4821909a4da)
+LED Lights
+![image](https://github.com/LU99IS99/Personal-UV-Exposure-Monitor/assets/133922082/26b31cf4-fc3d-4618-a84d-a006a7ef620a)
+
 ### Key Components:
 Stepper Motor: Drives the gauge needle to represent UV exposure level.
 LED Indicator: Changes color based on UV intensity (e.g., green for safe, red for high).
