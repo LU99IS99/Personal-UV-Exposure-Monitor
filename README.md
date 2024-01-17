@@ -1,4 +1,5 @@
 # Personal-UV-Exposure-Monitor
+![image](https://github.com/LU99IS99/Personal-UV-Exposure-Monitor/assets/133922082/c5ff4096-b5ca-4cf0-85c8-e3487f865561)
 This wearable device continually measures UV radiation exposure, providing real-time alerts to users about harmful UV levels. Designed to promote skin health, it's especially useful for outdoor enthusiasts or those with sensitive skin. The project combines a UV sensing device with a user-friendly display unit, employing wireless communication for seamless data transfer.
 ## Sensor Device Slide
 The core of this project is the Si1133 UV Index Sensor, a compact unit ideal for wearable tech. It accurately measures UV radiation levels, ensuring timely data collection.
@@ -25,3 +26,7 @@ The sensor and display devices communicate via Bluetooth Low Energy (BLE), offer
 ### Communication Flow
 The sensor device continuously sends UV data to the display unit.
 BLE ensures timely updates and minimal power consumption.
+## Connection:
+![image](https://github.com/LU99IS99/Personal-UV-Exposure-Monitor/assets/133922082/7a2cc17c-54e2-40db-84d4-52c13711e12d)
+## Diagram:
+![image](https://github.com/LU99IS99/Personal-UV-Exposure-Monitor/assets/133922082/77cd6237-834c-4a2c-842a-9f26d3cd640c)
